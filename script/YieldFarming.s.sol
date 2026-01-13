@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 
 import {Script, console} from "forge-std/Script.sol";
 
-contract ZapYieldFarmScript is Script {
+contract YieldFarmingScript is Script {
 
     function setUp() public {}
 
