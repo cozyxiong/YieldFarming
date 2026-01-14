@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ZapYieldFarm.iml" filepath="$PROJECT_DIR$/.idea/ZapYieldFarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/YieldFarming.iml" filepath="$PROJECT_DIR$/.idea/YieldFarming.iml" />
     </modules>
   </component>
 </project>
